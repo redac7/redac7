@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @redac7
 - 👀 I’m interested in python, java, jenkins, and DevOps in general.
+- I'm learning the AI modules on huggy face
 - 🌱 I’m currently learning any and everything I possibly can.
 - 💞️ I’m looking to collaborate on programming in python, and java.
 - 📫 How to reach me redac7@hotmail.com
